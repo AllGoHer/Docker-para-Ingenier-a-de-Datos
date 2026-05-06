@@ -1,4 +1,4 @@
-**DOCKER PARA INGENIERIA DE DATOS**  [image!](https://github.com/user-attachments/assets/330c0bac-767b-42e6-a944-5f0252e14e46)
+**DOCKER PARA INGENIERIA DE DATOS**  ![image](https://github.com/user-attachments/assets/330c0bac-767b-42e6-a944-5f0252e14e46)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 El presente archivo hace el recorrido sobre el proceso real de de un ingeniero de datos para creación de container en DOCKER, que va desde la creación de una app que conecta a bases de datos hasta su empaquetado.
